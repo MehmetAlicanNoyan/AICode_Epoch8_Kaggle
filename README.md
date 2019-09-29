@@ -6,7 +6,7 @@ AI Code is an initiative by fruitpunch where students can learn to apply AI toge
 
 This week you will be introduced to Kaggle by making an example submission to a [competition](https://www.kaggle.com/c/titanic). Then, you will try to climb the learderboard and compete with each other.
 
-* Register to Kaggle and join the [competition](https://www.kaggle.com/c/titanic)
+* Register to Kaggle and join the [Titanic competition](https://www.kaggle.com/c/titanic)
 * Run the Jupyter notebook [Example First Submission.ipynb](https://github.com/MehmetAlicanNoyan/AICode_Epoch8_Kaggle/blob/master/Challenge/Example%20First%20Submission.ipynb)
 * It will create a .csv submission file, submit the file to the competition
 * Improve the solution and climb the leaderboard
